@@ -1,0 +1,27 @@
+.thumbnail-image {
+  height: 100px;
+  width: 100%;
+}
+.popup-container {
+  margin: 20px;
+}
+.responsive-container {
+  text-align: center;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.close {
+  height: 20px;
+  width: 20px;
+  color: #000000;
+  background-color: #ffffff;
+}
+.close-button {
+  border: 0px solid transparent;
+  height: 30px;
+  width: 30px;
+  margin-left: 20px;
+  background-color: transparent;
+}
